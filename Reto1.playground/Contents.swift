@@ -2,7 +2,7 @@
 
 import UIKit
 
-var series = 1...100
+var series = 0...100
 
 let regla1 = " #Bingo!!!"
 let regla2 = " #par"
